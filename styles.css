@@ -74,6 +74,7 @@
   
   #heartSpan {
     text-align: center;
+      z-index: 5;
   }
   
   .icon {
